@@ -2,13 +2,14 @@
 
 ###
 
-<h1 align="left" style="border-bottom: 0px solid var(--borderColor-muted, var(--color-border-muted)) !important">Hi 👋! My name is Raushan</h1>
+<br clear="both">
+
+<h1 align="left">Hi 👋! My name is Raushan</h1>
 
 ###
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="81" alt="c logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="81" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="81" alt="bash logo"  />
   <img width="12" />
@@ -45,7 +46,7 @@
 
 ###
 
-<img src="https://github.com/Jhonraushan/Jhonraushan/blob/master/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jhonraushan/jhonraushan/output/snake.svg" alt="Snake animation" />
 
 ###
 
