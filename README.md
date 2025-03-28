@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left" style="border-bottom:none !important">Hi 👋! My name is Raushan</h1>
+<h1 align="left" style="border-bottom: 0px solid var(--borderColor-muted, var(--color-border-muted)) !important">Hi 👋! My name is Raushan</h1>
 
 ###
 
