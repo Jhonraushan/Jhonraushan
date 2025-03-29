@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jhonraushan/jhonraushan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jhonraushan/jhonraushan/snake.svg" alt="Snake animation" />
 
 ###
 
