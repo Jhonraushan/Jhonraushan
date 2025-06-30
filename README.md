@@ -1,91 +1,85 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+my+profile!&fontAlign=50&fontAlignY=40&color=gradient"/>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,+I'm+Jhonraushan!&fontAlign=50&fontAlignY=40&color=gradient" />
 
 <div align="center">
   
-  ![:Nafiul Islam](https://moe-count.glitch.me/get/@:nafiul-afk?theme=asoul)
-  
-  ![Visitor Count](https://profile-counter.glitch.me/nafiul-afk/count.svg)
-  
-  ## I'm Nafiul
-  
+![Profile Views](https://moe-count.glitch.me/get/@:Jhonraushan?theme=asoul)
+![Visitor Count](https://profile-counter.glitch.me/Jhonraushan/count.svg)
+
 </div>
 
-## 🛠️ Tech Stack
+---
 
-### AI & Machine Learning
+### 👨‍💻 About Me
+
+- 🔭 AI & Machine Learning Enthusiast  
+- 📊 Data Explorer | Python & Prompt Engineer  
+- 🌐 Tech Explorer @ Cloud & GitOps  
+- 💡 Lifelong Learner | Problem Solver  
+- 📬 [Email me](mailto:raushan.jhon@gmail.com)
+
+---
+
+## 🚀 Tech Stack
+
+### Programming & ML
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Llama](https://img.shields.io/badge/-Llama-7B1FA2?style=flat-square&logo=meta&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6A5ACD?style=flat-square&logo=OpenAI&logoColor=white)
 
-### Language
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" /></div>
-
-### Data Science
+### Data & Viz
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=green)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=red)
-
-### Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Cloud & Development Tools
+### DevOps & Cloud
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;" ><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
-
-
----
-
-<div align="center">
-  
-![GitHub Snake](https://github.com/nafiul-afk/nafiul-afk/blob/main/github-user-contribution.svg)
-
-</div>
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=nafiul-afk&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=false" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jhonraushan&show_icons=true&theme=dark&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonraushan&layout=compact&theme=dark" />
+  <img height="200em" src="https://streak-stats.demolab.com?user=Jhonraushan&theme=highcontrast" />
 </div>
+
+---
+
+## 🚀 Contribution Activity
+
 <div align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=nafiul-afk&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhonraushan&theme=high-contrast&area=true&hide_border=false" />
 </div>
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-afk&layout=compact&theme=dark&hide_border=false" />
-  </div>
-  
-## Top Contributed Repo
-<div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=nafiul-afk&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+---
 
-  </div>
-
-
-## 📊 Contribution Graph
+## 🏆 Top Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=high-contrast&count_private=true&include_all_commits=false&hide_border=false&area=true&order=5" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Jhonraushan&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
 </div>
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
+---
 
-## 🌐 Connect
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://kaggle.com/nafiulislam490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafiulislam490" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Btman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Btman_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nafiul-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul-afk" height="30" width="40" /></a>
-<a href="https://x.com/NafiulAfk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NafiulAfk" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naf.ipynb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naf.ipynb" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nafiul-islam-739359279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" /></a>
-<a href="mailto:nafiulislammmm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/nafiul-islam-739359279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/NafiulAfk" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/naf.ipynb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://kaggle.com/nafiulislam490" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Btman_" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/nafiul-afk" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:raushan.jhon@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+[![My Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/)
 
-[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
+---
 
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
