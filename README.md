@@ -1,83 +1,91 @@
-<br clear="both">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+my+profile!&fontAlign=50&fontAlignY=40&color=gradient"/>
 
-<h1 align="center">Hi 👋! My name is Raushan</h1>
 
-###
-
-<br clear="both">
-
-<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdhajg1ZjVqcGFic3N3dmpkdmhhOTAyZGs3bnJmcjFlOGo5dHIxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhonraushan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true" height="142" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonraushan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="59" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="59" alt="embeddedc logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="59" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="59" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="59" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="59" alt="gitlab logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="59" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="59" alt="ubuntu logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="59" alt="vim logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="59" alt="bash logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="59" alt="lua logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="59" alt="filezilla logo"  />
+  
+  ![:Nafiul Islam](https://moe-count.glitch.me/get/@:nafiul-afk?theme=asoul)
+  
+  ![Visitor Count](https://profile-counter.glitch.me/nafiul-afk/count.svg)
+  
+  ## I'm Nafiul
+  
 </div>
 
-###
+## 🛠️ Tech Stack
 
-<br clear="both">
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Llama](https://img.shields.io/badge/-Llama-7B1FA2?style=flat-square&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6A5ACD?style=flat-square&logo=OpenAI&logoColor=white)
+
+### Language
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" /></div>
+
+### Data Science
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=green)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=red)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Cloud & Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;" ><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
+
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Jhonraushan/count.svg?"  />
+  
+![GitHub Snake](https://github.com/nafiul-afk/nafiul-afk/blob/main/github-user-contribution.svg)
+
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="jhonraushan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="49" alt="instagram logo"  />
-  </a>
-  <a href="jhonraushan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="49" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/raushan-patel-6a9805228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="49" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="49" alt="youtube logo"  />
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=nafiul-afk&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=false" />
 </div>
+<div align="center">
+  <img height="200em" src="https://streak-stats.demolab.com?user=nafiul-afk&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
+</div>
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-afk&layout=compact&theme=dark&hide_border=false" />
+  </div>
+  
+## Top Contributed Repo
+<div align="center">
 
-###
+![](https://github-contributor-stats.vercel.app/api?username=nafiul-afk&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-<p align="left">Hello World!!</p>
+  </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonraushan/Jhonraushan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonraushan/Jhonraushan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jhonraushan/Jhonraushan/output/pacman-contribution-graph.svg">
-</picture>
+## 📊 Contribution Graph
 
-###
+<div align="center">
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-afk&theme=high-contrast&count_private=true&include_all_commits=false&hide_border=false&area=true&order=5" />
+</div>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://kaggle.com/nafiulislam490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafiulislam490" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Btman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Btman_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nafiul-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul-afk" height="30" width="40" /></a>
+<a href="https://x.com/NafiulAfk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NafiulAfk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/naf.ipynb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naf.ipynb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nafiul-islam-739359279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" /></a>
+<a href="mailto:nafiulislammmm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  /></a>
+</p>
+
+
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://nafiul-afk.github.io/) 
+
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
